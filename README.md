@@ -8,7 +8,7 @@
 
 ## About me
 
-- 🎓 Student of **Computer Science** at the **Faculty of Applied Mathematics**, **University of Silesia**.  
+- 🎓 Engineer of **Computer Science** at the **Faculty of Applied Mathematics**, **University of Silesia**.
 - 🧑‍💻 Working at **SAP Poland** as a **Cloud DevOps Engineer**.  
 - 🏠 Deeply into **self-hosting** and **homelab** tinkering.
 - 🛡️ Passionate about **cybersecurity**.  
