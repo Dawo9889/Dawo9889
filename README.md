@@ -64,7 +64,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:dawid.spolecznosci@gmail.com">
+  <a href="mailto:dawid.gala@protonmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48"/>
   </a>
   <a href="https://www.linkedin.com/in/galadawid/" target="_blank">
